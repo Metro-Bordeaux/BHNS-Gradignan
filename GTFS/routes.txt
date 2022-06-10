@@ -1,0 +1,4 @@
+agency_id,route_color,route_desc,route_id,route_long_name,route_short_name,route_text_color,route_type,route_url
+1,FF00FF,,3003,BHNS G1,BHNS Gradignan 1,000000,3,
+1,FF00FF,,3004,BHNS G2,BHNS Gradignan 2,000000,3,
+1,FF00FF,,3005,BHNS G3,BHNS Gradignan 3,000000,3,

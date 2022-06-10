@@ -1,0 +1,32 @@
+location_type,parent_station,stop_code,stop_desc,stop_id,stop_lon,stop_lat,stop_name,stop_url,wheelchair_boarding,zone_id
+,,,,Peixotto,-0.5927675275766864,44.80703095397735,Peixotto,,1,Peixotto
+,,,,Victor Louis,-0.593309,44.802926,Lycée Victor Louis,,1,Lycée Victor Louis
+,,,,Avenue de l'Université,-0.5946699999999999,44.801246,Avenue de l'Université,,1,Avenue de l'Université
+,,,,CREPS,-0.598613,44.798982,Creps,,1,Creps
+,,,,École de Management,-0.602521,44.796553,École de Management,,1,École de Management
+,,,,Compostelle,-0.605259,44.792773,Compostelle,,1,Compostelle
+,,,,Les trois Tours,-0.604958,44.78729,Les 3 Tours,,1,Les 3 Tours
+,,,,Le Télégraphe,-0.6064339999999999,44.78415,Le Télégraphe,,1,Le Télégraphe
+,,,,Lange,-0.607908,44.781696,Lange,,1,Lange
+,,,,Cimetière de Gradignan,-0.6094459999999999,44.779136,Cimetière de Gradignan,,1,Cimetière de Gradignan
+,,,,Rochefort,-0.61127,44.776107,Rochefort,,1,Rochefort
+,,,,Église de Gradignan,-0.61405,44.7732,Église de Gradignan,,1,Église de Gradignan
+,,,,Professeur Bernard,-0.6152569999999999,44.771015,Professeur Bernard,,1,Professeur Bernard
+,,,,Édouard Michel,-0.616865,44.768773,Édouard Michel,,1,Édouard Michel
+,,,,Prieuré de Cayac,-0.618374,44.766673,Prieuré de Cayac,,1,Prieuré de Cayac
+,,,,Lycée des graves,-0.6225251122587938,44.76111464513979,Lycée des Graves,,1,Lycée des Graves
+,,,,Beausoleil,-0.6250954974127154,44.75755612506792,Beausoleil,,1,Beausoleil
+,,,,Lycée hôtelier,-0.5946317908796572,44.79628308713593,Lycée Hôtelier,,1,Lycée Hôtelier
+,,,,Thouars,-0.5910407635976422,44.79086004149684,Thouars,,1,Thouars
+,,,,Allende,-0.5872471498472465,44.78986397113672,Allende,,1,Allende
+,,,,Neruda,-0.5861879999999999,44.78537499999999,Pablo Neruda,,1,Pablo Neruda
+,,,,Chanteloiseau,-0.5868516909131571,44.78006169861165,Chanteloiseau,,1,Chanteloiseau
+,,,,Croix de Monjous,-0.5937,44.776791,Croix de Monjous,,1,Croix de Monjous
+,,,,Collège Mauguin,-0.5967749999999999,44.77284299999999,Collège Mauguin,,1,Collège Mauguin
+,,,,Montfort,-0.595583,44.769028,Montfort,,1,Montfort
+,,,,Les Stellaires,-0.5986779999999999,44.76659799999999,Les Stellaires,,1,Les Stellaires
+,,,,Barthès,-0.602571,44.768905,Barthès,,1,Barthès
+,,,,Mairie de Gradignan,-0.608842,44.770819,Mairie de Gradignan,,1,Mairie de Gradignan
+,,,,Le Skating,-0.5791328110431393,44.78558570152774,Le Skating,,1,Le Skating
+,,,,Les Peupliers,-0.571873,44.786437,Les Peupliers,,1,Les Peupliers
+,,,,Lycée Vaclav Havel,-0.5667548871117412,44.78762852699906,Lycée Vaclav Havel,,1,Lycée Vaclav Havel
